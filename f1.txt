@@ -9,7 +9,6 @@ rules = [
 
   STATIC_ASSET_VERSION = "24.11.97"
 PLAN_HEALTH_STATIC_ASSET_VERSION = "24.12.10.1096"
-
 asdfasdf
 asd
 asd
@@ -26,8 +25,6 @@ sdf
 a
 sdf
 fargate_max_count    = "10"
-
-
 a
 sdf
 a
