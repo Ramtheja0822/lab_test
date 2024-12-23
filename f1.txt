@@ -1,0 +1,40 @@
+rules = [
+    {
+        type         = "path_pattern"
+        values       = ["/*"]
+    },
+    {
+        type         = "host_header"
+        values       = [""]
+
+  STATIC_ASSET_VERSION = "24.11.97"
+PLAN_HEALTH_STATIC_ASSET_VERSION = "24.12.10.1096"
+
+asdfasdf
+asd
+asd
+fa
+sdf
+a
+sdf
+a
+sdf
+a
+sdf
+a
+sdf
+a
+sdf
+fargate_max_count    = "10"
+
+
+a
+sdf
+a
+sdf
+fargate_min_count    = "2"
+a
+sdf
+fargate_desired_count = "2"
+a
+dsf
