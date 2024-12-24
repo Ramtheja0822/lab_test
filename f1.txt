@@ -23,12 +23,14 @@ sdf
 a
 sdf
 a
+
 sdf
 fargate_max_count    = "10"
 a
 sdf
 a
 sdf
+
 fargate_min_count    = "2"
 a
 sdf
